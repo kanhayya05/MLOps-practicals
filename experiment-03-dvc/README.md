@@ -32,13 +32,7 @@ dvc status
 
 
 ## Observed result
-The captured DVC demonstration output is in [`OUTPUT.txt`](./OUTPUT.txt). It records a temporary local remote, not a shared cloud remote; the DVC objects are not presented as a persistent hosted remote.
-
-## Viva questions
-1. What problem does this tool or workflow solve?
-2. What is one limitation or failure mode?
-3. How can the result be reproduced?
-
+The captured DVC demonstration output is in [`OUTPUT.txt`](./OUTPUT.txt). It records a temporary local remote, not a shared cloud remote; the DVC objects are not presented as a persistent hosted remot
 
 ## Concept summary
 DVC stores data artifact metadata in the Git workflow and manages data contents in its cache/remote. A local remote is not a shared cloud remote.
