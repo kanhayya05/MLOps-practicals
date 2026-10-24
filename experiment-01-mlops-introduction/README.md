@@ -29,11 +29,6 @@ Compare software development, DevOps and MLOps; explain lifecycle, components, p
 ## Observed result
 The lifecycle demonstration ran successfully. The captured terminal output is in [`OUTPUT.txt`](./OUTPUT.txt); the lifecycle diagram is a conceptual workflow reference.
 
-## Viva questions
-1. What problem does this tool or workflow solve?
-2. What is one limitation or failure mode?
-3. How can the result be reproduced?
-
 
 ## Concept summary
 The lifecycle reference identifies data, code, feature, model, and monitoring responsibilities across the ML lifecycle.
