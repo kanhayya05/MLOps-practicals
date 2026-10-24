@@ -43,10 +43,6 @@ Set a repository-specific identity with `git config user.name` and `git config u
 
 The feature branch and main branch contained conflicting edits; Git reported a content conflict, which was resolved and committed. The final history contained both lines of work and a merge commit.
 
-## Viva questions
-1. What problem does this tool or workflow solve?
-2. What is one limitation or failure mode?
-3. How can the result be reproduced?
 
 
 ## Concept summary
